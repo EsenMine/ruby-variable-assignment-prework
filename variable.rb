@@ -1,1 +1,1 @@
-greeeting = "Hello World" 
+greeting = "Hello World" 
